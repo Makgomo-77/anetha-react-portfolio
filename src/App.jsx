@@ -2,7 +2,7 @@ import React from "react";
 import NavigationBar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
-import Projects from "./components/Projects";
+import Project from "./components/Project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
