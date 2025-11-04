@@ -12,7 +12,7 @@ export default function About() {
           <Col md={6}>
             <h2>About Me</h2>
             <p>
-              I am a passionate Full-Stack Web Developer skilled in building modern,
+              I am a passionate Front-End Web Developer skilled in building modern,
               responsive, and user-friendly websites. My expertise includes React.js,
               JavaScript, Bootstrap, HTML, CSS, and Django for backend development.
             </p>
